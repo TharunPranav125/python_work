@@ -1,1 +1,2 @@
-print("Hello!!Tharun")
+message = "Hello!!Tharun"
+print(message)
