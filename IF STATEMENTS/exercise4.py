@@ -1,5 +1,5 @@
 age = input()
-print(f"Enter the age = {age} years")
+print(f"age = {age} years")
 
 if age<"2":
     print("Its a baby")
